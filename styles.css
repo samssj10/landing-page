@@ -95,3 +95,22 @@ button {
 .card-text {
     color: #1F2937;
 }
+
+.quote-section {
+    padding: 100px 305px;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    text-align: right;
+    color: #1F2937;
+    font-weight: 600;
+    font-size: 20px;
+}
