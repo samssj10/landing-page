@@ -65,3 +65,33 @@ button {
     border-style: none;
     font-size: 16px;
 }
+
+.feature-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.card {
+    width: 150px;
+    height: 300px;
+}
+.card-box {
+    width: 150px;
+    height: 160px;
+    border: 5px solid #3882F6;
+    border-radius: 15px;
+}
+
+.card-text {
+    color: #1F2937;
+}
