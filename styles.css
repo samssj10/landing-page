@@ -141,3 +141,13 @@ button {
 .quote-button {
     border: 2px solid #F9FAF8;
 }
+
+footer {
+    padding: 25px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 14px;
+}
